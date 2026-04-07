@@ -1,7 +1,7 @@
 {
-  "lang": "pioasm",
+  "url": "https://github.com/leo60228/tree-sitter-pioasm",
   "semver": false,
-  "parser_version": "afece58efdb30440bddd151ef1347fa8d6f744a9",
+  "lang": "pioasm",
   "location": null,
-  "url": "https://github.com/leo60228/tree-sitter-pioasm"
+  "parser_version": "afece58efdb30440bddd151ef1347fa8d6f744a9"
 }
